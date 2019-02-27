@@ -1,0 +1,24 @@
+{
+  "name": "solid-chat",
+  "version": "0.0.2",
+  "description": "a social chat app for the solid platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark-book/markbook.git"
+  },
+  "keywords": [
+    "solid",
+    "solid-app",
+    "chat"
+  ],
+  "author": "Aida (https://melvincarvalho.com/#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mark-book/markbook/issues"
+  },
+  "homepage": "https://github.com/mark-book/markbook#readme"
+}
